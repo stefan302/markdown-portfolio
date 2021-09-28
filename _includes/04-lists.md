@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. Pizza
+2. Watermelon
+3. Pankakes
+    1. Waffles
+    2. Eggs
+
+
+
