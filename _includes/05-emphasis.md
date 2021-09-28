@@ -1,0 +1,1 @@
+I am learning to use _**Markdown**_, and creating _italic_, and **bold** text. To create an _Italic text_ add _two undescores_, one _before and after the text that you want italics_. To create a **bold text** add **four asterics**, two **before and after the text that you want bold**.  
